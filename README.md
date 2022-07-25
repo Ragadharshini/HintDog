@@ -1,1 +1,1 @@
-# HintDog
+TinDog Starting Files
